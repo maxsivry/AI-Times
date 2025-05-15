@@ -14,7 +14,7 @@ export default function Home() {
             <h1 className="text-5xl md:text-7xl font-serif font-bold tracking-tight">THE AI TIMES</h1>
             <div className="flex justify-between items-center px-4 text-xs mt-2">
               <span>www.aitimes.com</span>
-              <span className="font-serif">THE WORLD&apos;S LEADING AI NEWSPAPER</span>
+              <span className="font-serif">THE WORLDS LEADING AI NEWSPAPER</span>
               <span>Since 2025</span>
             </div>
           </div>
