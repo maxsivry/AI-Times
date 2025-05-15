@@ -14,7 +14,7 @@ export default function Home() {
             <h1 className="text-5xl md:text-7xl font-serif font-bold tracking-tight">THE AI TIMES</h1>
             <div className="flex justify-between items-center px-4 text-xs mt-2">
               <span>www.aitimes.com</span>
-              <span className="font-serif">THE WORLD'S LEADING AI NEWSPAPER</span>
+              <span className="font-serif">THE WORLDS LEADING AI NEWSPAPER</span>
               <span>Since 2025</span>
             </div>
           </div>
@@ -50,19 +50,19 @@ export default function Home() {
                 </p>
                 <p>
                   The breakthrough, announced yesterday at the International Conference on Machine Learning,
-                  demonstrates a 40% improvement in efficiency while reducing computational requirements by half. "This
-                  is the most significant advancement we've seen in the field in the past decade," said Dr. Elena
+                  demonstrates a 40% improvement in efficiency while reducing computational requirements by half. This
+                  is the most significant advancement weve seen in the field in the past decade, said Dr. Elena
                   Rodriguez, lead researcher on the project.
                 </p>
                 <p>
                   Industry experts are already predicting wide-ranging implications across sectors from healthcare to
-                  autonomous transportation. The new architecture, dubbed "DeepFlow," incorporates novel approaches to
+                  autonomous transportation. The new architecture, dubbed DeepFlow, incorporates novel approaches to
                   information processing that more closely mimic human cognitive patterns.
                 </p>
                 <p>
-                  "What makes this particularly exciting is how it bridges the gap between traditional deep learning and
-                  neuromorphic computing," explained Dr. James Chen, who was not involved in the research but has
-                  reviewed the findings. "The potential applications are vast."
+                  What makes this particularly exciting is how it bridges the gap between traditional deep learning and
+                  neuromorphic computing, explained Dr. James Chen, who was not involved in the research but has
+                  reviewed the findings. The potential applications are vast.
                 </p>
                 <p>
                   Initial tests show DeepFlow excelling at tasks that have traditionally challenged AI systems,
@@ -93,8 +93,8 @@ export default function Home() {
                   organizations.
                 </p>
                 <p>
-                  "As AI becomes increasingly integrated into critical systems, we need clear guidelines that protect
-                  human interests while enabling innovation," said Council Chair Dr. Amara Okafor.
+                  As AI becomes increasingly integrated into critical systems, we need clear guidelines that protect
+                  human interests while enabling innovation, said Council Chair Dr. Amara Okafor.
                 </p>
                 <p>
                   The proposal has received mixed reactions, with some tech companies expressing concerns about
@@ -122,9 +122,9 @@ export default function Home() {
                   over-reliance on automated systems.
                 </p>
                 <p>
-                  "We're seeing a significant shift in how teams operate," explained lead researcher Dr. Marcus Wei.
-                  "The most successful organizations are those that thoughtfully integrate AI assistants while
-                  preserving human creativity and critical thinking."
+                  Were seeing a significant shift in how teams operate, explained lead researcher Dr. Marcus Wei.
+                  The most successful organizations are those that thoughtfully integrate AI assistants while
+                  preserving human creativity and critical thinking.
                 </p>
                 <p>
                   The study also highlighted emerging job categories specifically focused on human-AI collaboration,
@@ -161,7 +161,7 @@ export default function Home() {
             <div className="text-xs leading-tight">
               <h4 className="font-serif font-bold mb-2">AI ART EXHIBITION DRAWS RECORD CROWDS</h4>
               <p>
-                The "Minds and Machines" exhibition at the Metropolitan Museum of Modern Art has attracted record
+                The Minds and Machines exhibition at the Metropolitan Museum of Modern Art has attracted record
                 attendance in its opening week. The controversial showcase features works created through human-AI
                 collaboration, sparking debate about the nature of creativity.
               </p>
