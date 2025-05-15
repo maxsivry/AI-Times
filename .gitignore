@@ -1,0 +1,40 @@
+# 1. Node.js dependencies
+/node_modules/
+
+# 2. Next.js build outputs
+/.next/
+/out/
+
+# 3. Local build artifacts (if you add a “build” script later)
+/build/
+
+# 4. Vercel & deployment metadata
+/.vercel/
+/.vercel_build_output/
+
+# 5. Environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# (but keep a `.env.example` in Git so new devs know which keys to set)
+
+# 6. Log files
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.log
+
+# 7. OS-specific files
+.DS_Store
+
+# 8. IDE & editor settings
+.vscode/
+.idea/
+
+# 9. Test coverage reports
+/coverage/
+
+# 10. SSL certificates or keys (if you add HTTPS locally)
+/*.pem
