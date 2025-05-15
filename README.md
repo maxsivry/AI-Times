@@ -4,9 +4,9 @@
 The vision: fully AI-written online publication that generates a daily downloadable newspaper. 
 In the age of media distrust and illiteracy, I thought I could try my hand at the first fully autonomous news publication in hopes to inspire trust in news once again. This publication is built with a team of AI agents from different companies and full trasnparency on promptsing to ensure complete artificial journalistic integrity. 
 
-## Features
-- 🌍 Fetches local news
-- 📝 AI generates articles
+## Feature Plan
+- 🌍 Fetches daily news articles from diverse sites
+- 📝 team of AI agents generate articles
 - 📄 Converts content into a flipbook-style PDF
 - 🔄 Download & share functionality
 
