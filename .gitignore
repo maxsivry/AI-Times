@@ -1,0 +1,38 @@
+# --- Frontend (Next.js) ---
+front-end/node_modules/
+front-end/.next/
+front-end/out/
+front-end/.env.local
+front-end/.vercel/
+
+# --- Backend (Python) ---
+back-end/.venv/
+back-end/__pycache__/
+back-end/.env
+back-end/.DS_Store
+
+# --- General ---
+.DS_Store
+*.log
+*.pem
+*.tsbuildinfo
+next-env.d.ts
+*.pyc
+
+# --- Yarn & npm ---
+node_modules/
+.pnpm-debug.log*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- Yarn v2 (if using) ---
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# --- Test coverage ---
+coverage/
