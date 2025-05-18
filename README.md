@@ -1,11 +1,12 @@
 
 # 📰 The AI Times
 
-AI-powered online publication that generates a downloadable, interactive news PDF based on user location.
+The vision: fully AI-written online publication that generates a daily downloadable newspaper. 
+In the age of media distrust and illiteracy, I thought I could try my hand at the first fully autonomous news publication in hopes to inspire trust in news once again. This publication is built with a team of AI agents from different companies and full trasnparency on promptsing to ensure complete artificial journalistic integrity. 
 
-## Features
-- 🌍 Fetches local news
-- 📝 AI generates articles
+## Feature Plan
+- 🌍 Fetches daily news articles from diverse sites
+- 📝 team of AI agents generate articles
 - 📄 Converts content into a flipbook-style PDF
 - 🔄 Download & share functionality
 
@@ -21,7 +22,7 @@ AI-powered online publication that generates a downloadable, interactive news PD
    git clone https://github.com/YOUR_GITHUB_USERNAME/ai-times.git
    cd ai-times
 
+Contribution guidelines: lots to be done. Please reach out if you want to contribute: maxssivry@gmail.com
 
-NOTE to self:
-dependecies not installed globally...
-python -m pip install fastapi uvicorn openai pdfkit
+Statement from me: I believe that journalism-- any story telling -- is necessarily human. This project will serve more to unify daily news into a comprehensive report. 
+
